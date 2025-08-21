@@ -30,38 +30,6 @@ assets:
   method: copy
   source:
   - name: remastered/xa_ex_0010.mdls/-c0.cvbl
-- name: remastered/xa_nm_0000.mdls/-1c0.dds
-  method: copy
-  source:
-  - name: remastered/xa_nm_0000.mdls/-1c0.dds
-- name: remastered/xa_nm_0000.mdls/-1c1.dds
-  method: copy
-  source:
-  - name: remastered/xa_nm_0000.mdls/-1c1.dds
-- name: remastered/xa_nm_0000.mdls/-1c2.dds
-  method: copy
-  source:
-  - name: remastered/xa_nm_0000.mdls/-1c2.dds
-- name: remastered/xa_nm_0000.mdls/-2c0.dds
-  method: copy
-  source:
-  - name: remastered/xa_nm_0000.mdls/-2c0.dds
-- name: remastered/xa_nm_0000.mdls/-2c1.dds
-  method: copy
-  source:
-  - name: remastered/xa_nm_0000.mdls/-2c1.dds
-- name: remastered/xa_nm_0000.mdls/-a3390.dds
-  method: copy
-  source:
-  - name: remastered/xa_nm_0000.mdls/-a3290.dds
-- name: remastered/xa_nm_0000.mdls/-c0.cvbl
-  method: copy
-  source:
-  - name: remastered/xa_nm_0000.mdls/-c0.cvbl
-- name: xa_nm_0000.mdls
-  method: copy
-  source:
-  - name: xa_nm_0000.mdls
 - name: remastered/voice/al_sora.vsb/al_sora.win32.scd
   method: copy
   source:
@@ -82,10 +50,6 @@ assets:
   method: copy
   source:
   - name: remastered/voice/he_sora.vsb/he_sora.win32.scd
-- name: remastered/voice/nm_sora.vsb/nm_sora.win32.scd
-  method: copy
-  source:
-  - name: remastered/voice/nm_sora.vsb/nm_sora.win32.scd
 - name: remastered/voice/pc_sora.vsb/pc_sora.win32.scd
   method: copy
   source:
