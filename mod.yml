@@ -61,7 +61,7 @@ assets:
 - name: xa_nm_0000.mdls
   method: copy
   source:
-  - name: xa_ex_0010.mdls
+  - name: xa_nm_0000.mdls
 - name: remastered/voice/al_sora.vsb/al_sora.win32.scd
   method: copy
   source:
