@@ -50,7 +50,7 @@ assets:
   method: copy
   source:
   - name: remastered/xa_nm_0000.mdls/-2c1.dds
-- name: remastered/xa_nm_0000.mdls/-a3290.dds
+- name: remastered/xa_nm_0000.mdls/-a3390.dds
   method: copy
   source:
   - name: remastered/xa_nm_0000.mdls/-a3290.dds
